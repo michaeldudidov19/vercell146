@@ -1,0 +1,4 @@
+baseURL = "https://inspiredquotesboobytu.vercel.app"
+languageCode = "en-us"
+title = "Inspired Quotes About Sayings"
+theme = "tale-hugo-master"
